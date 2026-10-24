@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/readme-banner-dark.svg">
-  <img alt="MB QA External Development" src="assets/readme-banner-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/readme-banner-dark.png">
+  <img alt="MB QA External Development" src="assets/readme-banner-light.png">
 </picture>
 
 # MB QA External Development
